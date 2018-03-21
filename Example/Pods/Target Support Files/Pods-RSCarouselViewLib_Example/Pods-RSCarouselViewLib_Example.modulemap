@@ -1,0 +1,6 @@
+framework module Pods_RSCarouselViewLib_Example {
+  umbrella header "Pods-RSCarouselViewLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

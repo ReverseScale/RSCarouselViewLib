@@ -1,0 +1,6 @@
+framework module RSCarouselViewLib {
+  umbrella header "RSCarouselViewLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

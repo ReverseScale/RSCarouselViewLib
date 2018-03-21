@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RSCarouselViewLib'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'High-performance banner-framework.'
 
   s.description      = <<-DESC
